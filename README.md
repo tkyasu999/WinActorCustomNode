@@ -1,0 +1,2 @@
+# WinActorCustomNode
+WinActorカスタムノードを作成するためのVBSプログラム
