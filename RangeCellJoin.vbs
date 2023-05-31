@@ -1,3 +1,11 @@
+'
+' \par Copyright (C), 2023, superbunnbun
+' @file    RangeCellJoin.vbs
+' @author  superbunnbun
+' @version V1.0.0
+' @date    2023/05/30
+' @brief   Description: Excelにおいて、指定した範囲セルを結合する.
+'
 ' ファイルのパスをフルパスに変換する
 fname = !ファイル名!
 
