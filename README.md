@@ -58,6 +58,10 @@
         - Index：貼り付けるテキストオブジェクトのインデックス番号（1～）
         - Top：貼り付けオブジェクトの左上Y座標（左上0, px）
         - Left：貼り付けオブジェクトの左上X座標（左上0, px）
+- PowerPointSlideSelect
+    - PowerPointにおいて、指定した番号のスライドを選択する
+    - プロパティ
+        - スライド番号：選択したいスライド番号（1～）
 
 ## Reference
 - WinActor
