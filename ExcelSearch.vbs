@@ -1,7 +1,7 @@
 '
-' \par Copyright (C), 2023, superbunnbun
+' \par Copyright (C), 2023, tkyasu999
 ' @file    ExcelSearch.vbs
-' @author  superbunnbun
+' @author  tkyasu999
 ' @version V1.0.0
 ' @date    2023/06/03
 ' @brief   Description: Excelにおいて、指定された範囲で一致したセルの行番号と列番号を取得する. その際に, 検索一致度に完全一致と部分一致を含む.

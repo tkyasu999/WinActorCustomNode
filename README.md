@@ -67,7 +67,7 @@
 - WinActor
 
 ## Author
-- superbunnbun
+- tkyasu999
 
 ## Licence
-[MIT](https://github.com/superbunnbun/DebugNodeVbs/blob/main/LICENSE)
+[MIT](https://github.com/tkyasu999/DebugNodeVbs/blob/main/LICENSE)

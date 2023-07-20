@@ -1,7 +1,7 @@
 '
-' \par Copyright (C), 2023, superbunnbun
+' \par Copyright (C), 2023, tkyasu999
 ' @file    ExcelShapeCopy.vbs
-' @author  superbunnbun
+' @author  tkyasu999
 ' @version V1.0.0
 ' @date    2023/06/17
 ' @brief   Description: Excelにおいて、指定した範囲で図形コピーする.

@@ -1,7 +1,7 @@
 '
-' \par Copyright (C), 2023, superbunnbun
+' \par Copyright (C), 2023, tkyasu999
 ' @file    PowerPointTextPaste.vbs
-' @author  superbunnbun
+' @author  tkyasu999
 ' @version V1.0.0
 ' @date    2023/06/16
 ' @brief   Description: PowerPointにおいて、コピーしたテキストを指定したスライド、位置へ貼り付ける.

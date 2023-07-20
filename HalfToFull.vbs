@@ -1,5 +1,5 @@
 '
-' \par Copyright (C), 2023, superbunnbun
+' \par Copyright (C), 2023, tkyasu999
 ' @file    HalfToFull.vbs
 ' @author  tkyasu999
 ' @version V1.0.0

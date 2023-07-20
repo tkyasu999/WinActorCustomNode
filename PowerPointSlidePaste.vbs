@@ -1,7 +1,7 @@
 '
-' \par Copyright (C), 2023, superbunnbun
+' \par Copyright (C), 2023, tkyasu999
 ' @file    PowerPointSlidePaste.vbs
-' @author  superbunnbun
+' @author  tkyasu999
 ' @version V1.0.0
 ' @date    2023/06/01
 ' @brief   Description: PowerPointにおいて、指定した番号のスライドを複製する.

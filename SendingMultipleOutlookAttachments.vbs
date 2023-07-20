@@ -1,7 +1,7 @@
 '
-' \par Copyright (C), 2023, superbunnbun
+' \par Copyright (C), 2023, tkyasu999
 ' @file    SendingMultipleOutlookAttachments.vbs
-' @author  superbunnbun
+' @author  tkyasu999
 ' @version V1.0.0
 ' @date    2023/06/06
 ' @brief   Description: Outlookメールで, 複数ファイルを添付して送信する.
